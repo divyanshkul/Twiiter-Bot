@@ -1,0 +1,17 @@
+{
+	"config": {
+		"consumer_key": "Did-You",
+		"consumer_secret": "Think-It",
+		"access_token": "Would-Be",
+		"access_token_secret": "So Easy?" 
+	},
+
+	"Entered_Tweets": [
+		"Parsed tweet Fron Json 1",
+		"Parsed tweet Fron Json 2",
+		"Parsed tweet Fron Json 3",
+		"Parsed tweet Fron Json 4"	
+
+	]
+	
+}
