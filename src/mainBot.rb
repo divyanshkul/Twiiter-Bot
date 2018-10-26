@@ -1,3 +1,4 @@
+puts "Welcome to Tweet Bot!! \n\nYou can provide me your tweets and \nthe time delay between each of them \nand I will throw them out as you say :) \n"
 puts
 puts "You can use me by two ways (also enter your choice): \n\t1. By giving me the number of your tweets, their text and the time delay between each (manual mode) \n\t2. By providing me with a json file that I would read and tweet it out according to the delay given by you, (automative mode)"
 choice = gets.to_i
